@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="prompt">%s essai de créé une connection VPN.</string>
+    <string name="warning">"En activant ceci, vous donnez l'autorisation à l'application d'intercepter tout trafic internet. "<b>"N'acceptez pas à moins que vous connaissiez l'application."</b>" Sinon vous risquez de donner des accès à une application malveillante "</string>
+    <string name="accept">Je fais confiance à cette application.</string>
+    <string name="legacy_title">VPN est connecté</string>
+    <string name="configure">Configurer</string>
+    <string name="disconnect">Déconnecter</string>
+    <string name="session">Session:</string>
+    <string name="duration">Durée:</string>
+    <string name="data_transmitted">Envoyé:</string>
+    <string name="data_received">Reçu:</string>
+    <string name="blank_value">--</string>
+    <string name="data_value_format">%1$s bits / %2$s paquets</string>
+</resources>

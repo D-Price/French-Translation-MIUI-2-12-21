@@ -1,0 +1,9 @@
+version: 0.5.5.b4db7735a5
+apkFileName: SharedStorageBackup.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '15'

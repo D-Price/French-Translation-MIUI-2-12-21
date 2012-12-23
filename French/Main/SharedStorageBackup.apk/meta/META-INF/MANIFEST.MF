@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+
+Name: AndroidManifest.xml
+SHA1-Digest: /rTXBJ6DeRwAEwotfXNEAk9gu7E=
+
+Name: classes.dex
+SHA1-Digest: HoIlOSFAW9jdh9BnY+n5IJBFkUM=
+
